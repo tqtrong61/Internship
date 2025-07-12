@@ -4,7 +4,7 @@
 
 * **Ngày**: 22/06/2025
 * **Thứ**: Thứ Tư
-* **Tuần thực tập**: Tuần thứ 3/12
+* **Tuần thực tập**: Tuần thứ 6/12
 * **Thời gian làm việc**: 9:00 - 17:00
 * **Mood**: 💾 + Yên tâm vì biết dữ liệu đã được tự động sao lưu
 
